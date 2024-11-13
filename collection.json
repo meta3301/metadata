@@ -1,7 +1,7 @@
 {
   "name": "Morph pass NFT collection",
-  "image": "ipfs://QmUvHNUDGLqMgTqkFqxavboUP6RZFvFZs4gTcZ1iQM5gdP/collection.png",
-  "cover_image": "ipfs://QmUvHNUDGLqMgTqkFqxavboUP6RZFvFZs4gTcZ1iQM5gdP/cover.png",
+  "image": "https://raw.githubusercontent.com/meta3301/metadata/refs/heads/master/assets/collection.png",
+  "cover_image": "https://raw.githubusercontent.com/meta3301/metadata/refs/heads/master/assets/cover.png",
   "description": "Ton MORPH pass collection",
   "marketplace": "getgems.io",
   "external_url": null,
