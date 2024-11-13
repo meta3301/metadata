@@ -1,0 +1,15 @@
+{
+  "name":"MORPH pass ticket",
+  "description":"Allows you to sell MORPH tokens with a provided limitation",
+  "image":"https://raw.githubusercontent.com/meta3301/metadata/refs/heads/master/assets/2.png",
+  "attributes":[
+    {
+      "trait_type":"limit",
+      "value":"50"
+    },
+    {
+      "trait_type":"expiration",
+      "value":"2025.01.01 12:00 UTC"
+    }
+  ]
+}

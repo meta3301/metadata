@@ -1,0 +1,14 @@
+{
+  "name": "Morph pass NFT collection",
+  "image": "ipfs://QmUvHNUDGLqMgTqkFqxavboUP6RZFvFZs4gTcZ1iQM5gdP/collection.png",
+  "cover_image": "ipfs://QmUvHNUDGLqMgTqkFqxavboUP6RZFvFZs4gTcZ1iQM5gdP/cover.png",
+  "description": "Ton MORPH pass collection",
+  "marketplace": "getgems.io",
+  "external_url": null,
+  "social_links": [
+    "https://t.me/tonmetamorphosis",
+    "https://t.me/metamorphosis_quest_bot/signup",
+    "https://tonmetamorphosis.com/"
+  ],
+  "external_link": null
+}
