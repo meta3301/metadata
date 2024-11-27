@@ -1,9 +1,7 @@
 {
   "name":"MORPH pass ticket",
   "description":"Allows you to sell MORPH tokens with a provided limitation",
-  "image":"https://raw.githubusercontent.com/meta3301/metadata/refs/heads/master/assets/5K.png",
-  "content_url":"https://raw.githubusercontent.com/meta3301/metadata/refs/heads/master/assets/5K.mp4",
-  "content_type": "video/mp4",
+  "image":"https://raw.githubusercontent.com/meta3301/metadata/refs/heads/master/assets/5K.webp",
   "attributes":[
     {
       "trait_type":"limit",
